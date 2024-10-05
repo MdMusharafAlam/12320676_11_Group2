@@ -1,1 +1,1 @@
-# 12320676_11_group2
+MSF Air Quality Monitoring System: A Python app for real-time Air Quality Index (AQI) data using the OpenWeather API. Features include secure login, registration, password recovery, and health advice based on AQI levels.
