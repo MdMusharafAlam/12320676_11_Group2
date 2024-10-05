@@ -1,0 +1,13 @@
+2024-10-05 13:44:10,442 INFO:MSF Air Quality Monitoring System started.
+2024-10-05 13:44:29,347 WARNING:Failed login attempt for user: mdmusharafalam21@gmail.com
+2024-10-05 13:44:29,348 WARNING:Login failed for user: mdmusharafalam21@gmail.com. 4 attempts left.
+2024-10-05 13:44:50,513 INFO:User mdmusharafalam21@gmail.com logged in successfully.
+2024-10-05 13:44:54,610 INFO:Air quality data retrieved for London. AQI: 1
+2024-10-05 13:45:18,558 INFO:Password reset successfully for user: mdmusharafalam21@gmail.com
+2024-10-05 13:45:42,548 INFO:New user registered: mdmusharafalam21@gmail.com
+2024-10-05 13:45:48,191 INFO:MSF Air Quality Monitoring System exited.
+2024-10-05 15:04:42,167 INFO:MSF Air Quality Monitoring System started.
+2024-10-05 15:05:15,387 INFO:User mdmusharafalam21@gmail.com logged in successfully.
+2024-10-05 15:06:23,342 INFO:Air quality data retrieved for Los Angeles. AQI: 5
+2024-10-05 15:07:56,624 INFO:User mdmusharafalam21@gmail.com logged in successfully.
+2024-10-05 15:08:05,608 INFO:Air quality data retrieved for New York. AQI: 5
